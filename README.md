@@ -340,7 +340,7 @@ Answer the following questions:
 
 ### Important Note Regarding Unit 12:
 
-Please make sure that you are set up on your personal Azure accounts prior to the first day of the Cloud Security unit. Use the following set up guide for assistance: [Set-up Guide](https://docs.google.com/document/d/1gs_09b7eotl7hzTL82xlqPt-OwOd0aWA78qcQxtMr6Y/edit).
+Please make sure that you are set up on your personal Azure accounts prior to the first day of the Cloud Security unit. Use the following set up guide for assistance: 
 
 ---
 
@@ -348,4 +348,7 @@ Please make sure that you are set up on your personal Azure accounts prior to th
 
 ---
 
-## Week 11 Homework Submission: Network Security 
+## Week 11 Homework Submission: Network Security
+
+[Unit 11 Submission File Brandon Webb_ Network Security Homework.pdf](https://github.com/BrandonQ3/Network-Security/files/8027349/Unit.11.Submission.File.Brandon.Webb_.Network.Security.Homework.pdf)
+
